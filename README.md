@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Milena 👋
+
+I'm a Computer Science and Intelligent Systems student at AGH University of Science and Technology, with a passion for data science and a love for traveling. I enjoy exploring new technologies and finding innovative solutions to challenging problems.
 
 <!--
 **MilSmo/MilSmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
